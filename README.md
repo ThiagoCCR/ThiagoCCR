@@ -8,6 +8,7 @@
 </div>
 <h3>Skills</h3>
 <div align="center">
+     <a href="https://wakatime.com/@b977ad8a-d11c-4c54-9ddd-60aeafca93db"><img src="https://wakatime.com/badge/user/b977ad8a-d11c-4c54-9ddd-60aeafca93db.svg" alt="Total time coded since Mar 6 2022" /></a>
      <img src="https://github-readme-stats.vercel.app/api?username=ThiagoCCR&theme=dark&custom_title=Github Stats&include_all_commits=true&count_private=true&cache_seconds=4600" height="150px", width="400px" />
 </div>
 <div style="display: inline_block"><br>
