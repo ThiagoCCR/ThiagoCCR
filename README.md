@@ -6,6 +6,7 @@
    <a href="https://www.linkedin.com/in/thiago-reis-414711221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/ot.reis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://wakatime.com/@b977ad8a-d11c-4c54-9ddd-60aeafca93db"><img src="https://wakatime.com/badge/user/b977ad8a-d11c-4c54-9ddd-60aeafca93db.svg" alt="Total time coded since Mar 6 2022" /></a>
+   <a href="https://www.codewars.com/users/MagThiago"><img src="https://www.codewars.com/users/MagThiago/badges/micro"/></a>
 </div>
 <h3>Skills</h3>
 <div align="center">
