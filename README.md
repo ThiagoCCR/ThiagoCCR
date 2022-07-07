@@ -13,8 +13,8 @@
 </div>
 <h3>Skills</h3>
 <div style="display:flex">
-     <img src="https://github-readme-stats.vercel.app/api?username=ThiagoCCR&theme=dark&custom_title=Github Stats&include_all_commits=true&count_private=true&cache_seconds=4600" height="150px", width="400px" />
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoCCR&theme=dark&show_icons=true&layout=default&langs_count=4" height="180px", width="400px" />
+     <img src="https://github-readme-stats.vercel.app/api?username=ThiagoCCR&theme=dracula&custom_title=Github Stats&include_all_commits=true&count_private=true&cache_seconds=4600" height="150px", width="400px" />
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoCCR&theme=dracula&show_icons=true&layout=default&langs_count=4" height="180px", width="400px" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
