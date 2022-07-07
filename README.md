@@ -1,8 +1,5 @@
 ## Hey, I'm Thiago Reis!
 
-## About me
-
-
 <p>I'm a Software Engineer student at Driven Education Bootcamp</p>
 <p>I'm currently learning React</p>
 
