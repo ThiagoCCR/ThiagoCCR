@@ -1,8 +1,8 @@
 ## Hey, I'm Thiago Reis!
 
-<p>I'm a Software Engineer student at Driven Education Bootcamp</p>
+<p>I'm a Software Engineering student at Driven Education Bootcamp</p>
 
-## Social Media 
+## Media 
 
 
 <div> 
@@ -17,7 +17,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&custom_title=GitHub Stats&username=ThiagoCCR" height="150" alt="stats graph"  />
+  <img alt="Thiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ThiagoCCR&theme=tokyonight&show_icons=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=ThiagoCCR" height="150" alt="languages graph"  />
 </div>
 <div style="display: inline_block"><br>
@@ -29,7 +29,6 @@
   <img align="center" alt="Mongo" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
 </div>
    
    
