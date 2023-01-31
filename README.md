@@ -1,6 +1,6 @@
 ## Hey, I'm Thiago Reis!
 
-<p>I'm a Software Engineering student at Driven Education Bootcamp</p>
+<p>I'm a Web FullsStack Software Engineering</p>
 
 ## Media 
 
