@@ -2,7 +2,7 @@
    <h1 align="center">Hello there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30" width="30" /></h1> 
  </div>
 
-<p align="left">My name is Thiago and I'm a Fullstack Web Developer, from Brazil 🇧🇷</p>
+<p align="left">My name is Thiago and I'm a Fullstack Web Developer from Brazil 🇧🇷</p>
 
 ###
 
