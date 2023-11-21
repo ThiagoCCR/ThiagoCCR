@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Docker & AWS<br>🎯 Goals: Next.js <br>🎲 Fun fact: I have a bachelor's degree and an ongoing master degree in Law! ⚖️</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Docker & AWS<br>🎯 Goals: Next.js <br>🎲 Fun fact: I have a bachelor's degree and an master degree in Law! ⚖️</p>
 
 ###
 
